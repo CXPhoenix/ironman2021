@@ -4,7 +4,7 @@
 > Group: 兔兔教
 
 ## 目前文章(暫定)
-* Google Apps Script
+* Google Apps Script (你目前位置)
 * JS + Firebase
 
 ## 如何查看
@@ -12,3 +12,4 @@
 
 > 文章版權所屬 CXPhoenix 所有\
 > 如需引用請按照 CC-BY-NC 規定引用
+~
