@@ -69,7 +69,7 @@ JavaScript 篇\
 &emsp;&emsp;Day 3: 「JS 好棒棒！」- JS 初探與資料儲存\
 &emsp;&emsp;Day 4: 「往左走往右走」- JS 的結構化程式設計 1 - 選擇條件結構\
 &emsp;&emsp;Day 5: 「跑操場的痛苦修行」- JS 的結構化程式設計 2 - 重複結構\
-&emsp;&emsp;Day 6: 「不要一直寫重複的話」- JS 的模組化程式設計\
+&emsp;&emsp;Day 6: 「不要一直寫重複的話」- JS 的模組化程式設計
 
 Google Apps Script 基礎篇\
 &emsp;&emsp;Day 7: 「87% 的純度」 - 從 JS 到 GAS\
