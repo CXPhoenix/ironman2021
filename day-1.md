@@ -28,7 +28,7 @@ Day 1: 「你還在手動啊？」- 一起來看看簡單的自動化吧！\
 <br>
 
 ### **Google Apps Script**
-其實我相信版友們對於這個 Google 大神所推出的服務並不會陌生，~~至少沒聽過 GAS 跑起來也聽過 GAS 的芳名吧~~。
+其實我相信版友們對於這個 Google 大神所推出的服務並不會陌生，~~至少沒看過 GAS 跑起來也聽過 GAS 的芳名吧~~。
 
 Google Apps Script （簡稱 GAS 或是 gas）是以一個大家耳熟能詳的前端三本柱之一 JavaScript 為基礎的伺服器端腳本語言 (server-side scripting language)，他並非是一般的 JavaScript 一樣 ~~（廢話）~~ 是以一般瀏覽器為主 (browser-based) 的語言，而是運作於 Google 的伺服器上，能夠直接存取存放在 Google 伺服器中的資料。近來更是支援 Modern JS 的撰寫方式，讓大家在程式設計上更方便。
 
