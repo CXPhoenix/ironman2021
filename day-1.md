@@ -51,41 +51,12 @@ GAS 其實原本只是 Google 工程師 Mike Harm 想要在 Google Sheets 上實
 * 利用 GAS 結合 HTML 技術打造雲端網頁
 * 實作一些 GAS 應用的自動化功能系統
 
+最後我們在每一篇的最後都有一些小作業喔（老師職業病），各位不妨做做看吧！
 <br>
 
 就讓我們一起探索這個神奇的 Google Apps Script 世界中吧！
 
 ---
-<br>
 
-## **目錄**
-
-&emsp;&emsp;Day 1: 「你還在手動啊？」- 一起來看看簡單的自動化吧！（就是本篇）
-
-&emsp;&emsp;Day 2: 「先來看看你的實驗對象吧！」- GAS 編輯器初探
-
-JavaScript 篇\
-&emsp;&emsp;Day 3: 「JS 好棒棒！」- JS 初探與資料儲存\
-&emsp;&emsp;Day 4: 「往左走往右走」- JS 的結構化程式設計 1 - 選擇條件結構\
-&emsp;&emsp;Day 5: 「跑操場的痛苦修行」- JS 的結構化程式設計 2 - 重複結構\
-&emsp;&emsp;Day 6: 「不要一直寫重複的話」- JS 的模組化程式設計
-
-Google Apps Script 基礎篇\
-&emsp;&emsp;Day 7: 「87% 的純度」 - 從 JS 到 GAS\
-&emsp;&emsp;Day 8: 「推廣一下終身學習」 - GAS 的參考文件去哪看？\
-&emsp;&emsp;Day 9: 「簡單的實作」 - GAS 的基礎功能\
-&emsp;&emsp;Day 10: 實作 1: 用 GAS 寄封信吧!
-
-GAS X 試算表\
-&emsp;&emsp;Day 11: 「神奇的 Google DB」試算表的 CRUD 1 - 新增與讀取\
-&emsp;&emsp;Day 12: 「神奇的 Google DB」試算表的 CRUD 1 - 更新與刪除\
-&emsp;&emsp;Day 13: 實作 2: 自動化會議通知
-
-GAS X 雲端硬碟\
-&emsp;&emsp;Day 14: 獲得雲端硬碟中的資料\
-&emsp;&emsp;Day 15: 在雲端硬碟中創造檔案\
-&emsp;&emsp;Day 16: 刪除在雲端硬碟中的檔案\
-&emsp;&emsp;Day 17: 實作 3: 
-
-GAS X 文件\
-&emsp;&emsp;Day 18: 還在想..
+> 今日回家作業：
+> * 想想看，你要用 Google Apps Script 做些什麼吧！
