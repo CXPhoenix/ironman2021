@@ -34,7 +34,7 @@ GAS X 試算表\
 
 GAS X 雲端硬碟\
 &emsp;&emsp;Day 14: 獲得雲端硬碟中的資料\
-&emsp;&emsp;Day 15: 在雲端硬碟中創造檔案\
+&emsp;&emsp;Day 15: 在雲端硬碟中創造檔案\
 &emsp;&emsp;Day 16: 刪除在雲端硬碟中的檔案\
 &emsp;&emsp;Day 17: 實作 3: 
 
