@@ -13,7 +13,7 @@
 
 &emsp;&emsp;Day 1: 「你還在手動啊？」- 一起來看看簡單的自動化吧！（就是本篇）
 
-&emsp;&emsp;Day 2: 「先來看看你的實驗對象吧！」- GAS 編輯器初探及 GAS 參考文件
+&emsp;&emsp;Day 2: 「先來看看你的實驗對象吧！」- GAS 編輯器初探 及 GAS 參考文件
 
 JavaScript 篇\
 &emsp;&emsp;Day 3: 「JS 好棒棒！」- JS 初探與資料儲存\
